@@ -4,7 +4,14 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log ("Hello, World")
+console.log  ('Hello, World!')
+console.log ("Hello, World") 
+console.log ("Quoth the Raven, Nevermore!")
+console.log ('17' + '17')
+console.log ("comma, space, 'comma'")
+console.log ("this is a message"); ("this is another message")
+console.log (woah) 
+console.log ('wow!');
  
 /*  
 Next, PLAY! 
